@@ -1,3 +1,8 @@
 numpy==1.20.1
 matplotlib==3.5.3
 watermark==2.4.3
+pymc3==3.11.1
+exoplanet==0.5.0
+pymc3_ext==0.1.0
+aesara_theano_fallback==0.0.4
+arviz==0.11.2
